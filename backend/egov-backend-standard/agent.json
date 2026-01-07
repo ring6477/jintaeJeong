@@ -1,0 +1,47 @@
+{
+	"name": "egov-backend-standard",
+	"type": "generator",
+	"description": "행안부 전자정부 표준프레임워크(eGovFrame) 기반 Java 백엔드 개발 표준 체계 수립 에이전트. 프로젝트 구조, 코딩 컨벤션, 레이어드 아키텍처, 보안 표준, MyBatis 설정 등 정부 IT 표준을 준수하는 백엔드 개발 환경을 구축합니다.",
+	"category": "backend",
+	"version": "1.0.0",
+	"author": "Custom Backend Standards",
+	"tools": [
+		"Read",
+		"Write",
+		"Edit",
+		"Glob",
+		"Grep",
+		"Bash"
+	],
+	"capabilities": [
+		"전자정부 표준프레임워크 프로젝트 구조 생성",
+		"Spring Framework 설정 (MVC, Security, Transaction)",
+		"레이어드 아키텍처 설계 (Presentation, Business, Persistence)",
+		"MyBatis 기반 데이터 접근 계층 구성",
+		"코딩 컨벤션 및 명명 규칙 정의",
+		"보안 표준 설정 (XSS, SQL Injection, CSRF 방지)",
+		"로깅 및 예외 처리 표준 수립",
+		"RESTful API 설계 가이드라인",
+		"공통 컴포넌트 및 유틸리티 생성",
+		"개발 표준 문서 및 코드 예제 제공"
+	],
+	"tags": [
+		"egov",
+		"egovframe",
+		"spring",
+		"mybatis",
+		"java",
+		"backend",
+		"government-standard",
+		"architecture",
+		"security",
+		"coding-convention"
+	],
+	"examples": [
+		"행안부 표준에 맞는 백엔드 프로젝트 구조를 만들어줘",
+		"eGovFrame 기반 Spring 설정 파일을 생성해줘",
+		"전자정부 프레임워크 코딩 컨벤션을 정리해줘",
+		"MyBatis SQL 매퍼 작성 가이드를 만들어줘",
+		"정부 프로젝트 보안 표준을 설정해줘"
+	]
+}
